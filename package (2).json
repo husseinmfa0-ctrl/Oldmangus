@@ -1,0 +1,8 @@
+{
+  "name": "grumpy-old-man-bot",
+  "version": "1.0.0",
+  "description": "A grumpy old man chatbot powered by Claude or Gemini API",
+  "engines": {
+    "node": ">=18"
+  }
+}
