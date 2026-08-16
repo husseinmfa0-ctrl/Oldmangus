@@ -1,0 +1,11 @@
+{
+  "name": "grumpy-old-man-bot",
+  "version": "1.0.0",
+  "description": "A grumpy old man chatbot powered by Claude or Gemini API, with Supabase auth and usage limits",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
